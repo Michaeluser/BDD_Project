@@ -2,37 +2,43 @@ Copyright (c) 2026 Mykhailo Chepara
 
 All rights reserved.
 
-This repository and all associated source code, files,
-documentation, and assets are provided solely for
-personal viewing and reference purposes.
+Permission is granted solely to execute and use the unmodified software
+for personal, non-commercial, and non-production purposes.
+
+This repository and all associated source code, files, documentation,
+and assets are provided strictly for viewing, reference, and authorized
+execution purposes only.
 
 No permission is granted to:
-- use the software,
-- execute the software,
+
 - modify the software,
 - create derivative works,
-- copy the software except as technically required
-  for viewing,
 - redistribute the software,
 - sublicense the software,
-- publish forks,
-- incorporate any portion into other software,
-- use the code for commercial purposes,
-- train machine learning or AI systems on the code,
-- or exploit the project in any form.
+- publish forks or mirrors,
+- incorporate any portion of the software into other software,
+- use the software or code for commercial purposes,
+- deploy the software as part of a commercial or public service,
+- remove or alter copyright or license notices,
+- train machine learning or AI systems on the code or associated assets,
+- reverse engineer protected components except where prohibited by law,
+- or otherwise exploit the project beyond the limited rights explicitly granted above.
 
-Except where explicitly authorized in a separate
-written agreement signed by the copyright holder,
-no additional rights or permissions are granted.
+Copying of the software is permitted only where technically necessary
+for authorized viewing or execution.
 
-Unauthorized use, distribution, or reproduction
+Except where explicitly authorized in a separate written agreement signed
+by the copyright holder, no additional rights or permissions are granted.
+
+Unauthorized use, modification, distribution, reproduction, or exploitation
 may violate applicable copyright laws.
+
 
 
 AUTHORIZATION AND SIGNED PERMISSIONS
 
-Any permission to use, copy, modify, distribute, or otherwise exploit this software
-is valid only if it is explicitly granted in a digital artifact signed with the
+Any permission extending beyond the rights explicitly granted in this license
+is valid only if explicitly granted in a digital artifact signed with the
 author’s registered GPG key associated with their GitHub account.
 
 Only digitally signed artifacts created with the author’s verified signing key
