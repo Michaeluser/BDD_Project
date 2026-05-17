@@ -1,0 +1,304 @@
+--- Test - Attempt 1 ---
+Best order(number of nodes): 50
+Regular order(number of nodes): 77
+--- Test - Attempt 2 ---
+Best order(number of nodes): 2
+Regular order(number of nodes): 2
+--- Test - Attempt 3 ---
+Best order(number of nodes): 64
+Regular order(number of nodes): 85
+--- Test - Attempt 4 ---
+Best order(number of nodes): 17
+Regular order(number of nodes): 19
+--- Test - Attempt 5 ---
+Best order(number of nodes): 47
+Regular order(number of nodes): 73
+--- Test - Attempt 6 ---
+Best order(number of nodes): 78
+Regular order(number of nodes): 118
+--- Test - Attempt 7 ---
+Best order(number of nodes): 144
+Regular order(number of nodes): 236
+--- Test - Attempt 8 ---
+Best order(number of nodes): 2
+Regular order(number of nodes): 2
+--- Test - Attempt 9 ---
+Best order(number of nodes): 73
+Regular order(number of nodes): 144
+--- Test - Attempt 10 ---
+Best order(number of nodes): 65
+Regular order(number of nodes): 78
+--- Test - Attempt 11 ---
+Best order(number of nodes): 55
+Regular order(number of nodes): 94
+--- Test - Attempt 12 ---
+Best order(number of nodes): 96
+Regular order(number of nodes): 146
+--- Test - Attempt 13 ---
+Best order(number of nodes): 57
+Regular order(number of nodes): 79
+--- Test - Attempt 14 ---
+Best order(number of nodes): 40
+Regular order(number of nodes): 57
+--- Test - Attempt 15 ---
+Best order(number of nodes): 65
+Regular order(number of nodes): 99
+--- Test - Attempt 16 ---
+Best order(number of nodes): 61
+Regular order(number of nodes): 67
+--- Test - Attempt 17 ---
+Best order(number of nodes): 19
+Regular order(number of nodes): 22
+--- Test - Attempt 18 ---
+Best order(number of nodes): 30
+Regular order(number of nodes): 39
+--- Test - Attempt 19 ---
+Best order(number of nodes): 70
+Regular order(number of nodes): 94
+--- Test - Attempt 20 ---
+Best order(number of nodes): 19
+Regular order(number of nodes): 28
+--- Test - Attempt 21 ---
+Best order(number of nodes): 80
+Regular order(number of nodes): 107
+--- Test - Attempt 22 ---
+Best order(number of nodes): 56
+Regular order(number of nodes): 68
+--- Test - Attempt 23 ---
+Best order(number of nodes): 45
+Regular order(number of nodes): 50
+--- Test - Attempt 24 ---
+Best order(number of nodes): 126
+Regular order(number of nodes): 131
+--- Test - Attempt 25 ---
+Best order(number of nodes): 68
+Regular order(number of nodes): 111
+--- Test - Attempt 26 ---
+Best order(number of nodes): 116
+Regular order(number of nodes): 164
+--- Test - Attempt 27 ---
+Best order(number of nodes): 59
+Regular order(number of nodes): 93
+--- Test - Attempt 28 ---
+Best order(number of nodes): 39
+Regular order(number of nodes): 70
+--- Test - Attempt 29 ---
+Best order(number of nodes): 59
+Regular order(number of nodes): 98
+--- Test - Attempt 30 ---
+Best order(number of nodes): 56
+Regular order(number of nodes): 66
+--- Test - Attempt 31 ---
+Best order(number of nodes): 44
+Regular order(number of nodes): 54
+--- Test - Attempt 32 ---
+Best order(number of nodes): 67
+Regular order(number of nodes): 86
+--- Test - Attempt 33 ---
+Best order(number of nodes): 45
+Regular order(number of nodes): 63
+--- Test - Attempt 34 ---
+Best order(number of nodes): 2
+Regular order(number of nodes): 2
+--- Test - Attempt 35 ---
+Best order(number of nodes): 23
+Regular order(number of nodes): 33
+--- Test - Attempt 36 ---
+Best order(number of nodes): 2
+Regular order(number of nodes): 2
+--- Test - Attempt 37 ---
+Best order(number of nodes): 21
+Regular order(number of nodes): 18
+--- Test - Attempt 38 ---
+Best order(number of nodes): 36
+Regular order(number of nodes): 56
+--- Test - Attempt 39 ---
+Best order(number of nodes): 2
+Regular order(number of nodes): 2
+--- Test - Attempt 40 ---
+Best order(number of nodes): 64
+Regular order(number of nodes): 106
+--- Test - Attempt 41 ---
+Best order(number of nodes): 71
+Regular order(number of nodes): 80
+--- Test - Attempt 42 ---
+Best order(number of nodes): 44
+Regular order(number of nodes): 66
+--- Test - Attempt 43 ---
+Best order(number of nodes): 22
+Regular order(number of nodes): 47
+--- Test - Attempt 44 ---
+Best order(number of nodes): 16
+Regular order(number of nodes): 32
+--- Test - Attempt 45 ---
+Best order(number of nodes): 26
+Regular order(number of nodes): 34
+--- Test - Attempt 46 ---
+Best order(number of nodes): 64
+Regular order(number of nodes): 82
+--- Test - Attempt 47 ---
+Best order(number of nodes): 49
+Regular order(number of nodes): 65
+--- Test - Attempt 48 ---
+Best order(number of nodes): 41
+Regular order(number of nodes): 56
+--- Test - Attempt 49 ---
+Best order(number of nodes): 53
+Regular order(number of nodes): 64
+--- Test - Attempt 50 ---
+Best order(number of nodes): 85
+Regular order(number of nodes): 98
+--- Test - Attempt 51 ---
+Best order(number of nodes): 42
+Regular order(number of nodes): 57
+--- Test - Attempt 52 ---
+Best order(number of nodes): 121
+Regular order(number of nodes): 157
+--- Test - Attempt 53 ---
+Best order(number of nodes): 88
+Regular order(number of nodes): 119
+--- Test - Attempt 54 ---
+Best order(number of nodes): 2
+Regular order(number of nodes): 2
+--- Test - Attempt 55 ---
+Best order(number of nodes): 37
+Regular order(number of nodes): 48
+--- Test - Attempt 56 ---
+Best order(number of nodes): 101
+Regular order(number of nodes): 129
+--- Test - Attempt 57 ---
+Best order(number of nodes): 78
+Regular order(number of nodes): 111
+--- Test - Attempt 58 ---
+Best order(number of nodes): 87
+Regular order(number of nodes): 106
+--- Test - Attempt 59 ---
+Best order(number of nodes): 27
+Regular order(number of nodes): 30
+--- Test - Attempt 60 ---
+Best order(number of nodes): 2
+Regular order(number of nodes): 2
+--- Test - Attempt 61 ---
+Best order(number of nodes): 48
+Regular order(number of nodes): 71
+--- Test - Attempt 62 ---
+Best order(number of nodes): 26
+Regular order(number of nodes): 37
+--- Test - Attempt 63 ---
+Best order(number of nodes): 81
+Regular order(number of nodes): 108
+--- Test - Attempt 64 ---
+Best order(number of nodes): 95
+Regular order(number of nodes): 150
+--- Test - Attempt 65 ---
+Best order(number of nodes): 84
+Regular order(number of nodes): 105
+--- Test - Attempt 66 ---
+Best order(number of nodes): 31
+Regular order(number of nodes): 36
+--- Test - Attempt 67 ---
+Best order(number of nodes): 59
+Regular order(number of nodes): 82
+--- Test - Attempt 68 ---
+Best order(number of nodes): 52
+Regular order(number of nodes): 74
+--- Test - Attempt 69 ---
+Best order(number of nodes): 84
+Regular order(number of nodes): 134
+--- Test - Attempt 70 ---
+Best order(number of nodes): 98
+Regular order(number of nodes): 117
+--- Test - Attempt 71 ---
+Best order(number of nodes): 76
+Regular order(number of nodes): 94
+--- Test - Attempt 72 ---
+Best order(number of nodes): 21
+Regular order(number of nodes): 23
+--- Test - Attempt 73 ---
+Best order(number of nodes): 68
+Regular order(number of nodes): 103
+--- Test - Attempt 74 ---
+Best order(number of nodes): 47
+Regular order(number of nodes): 55
+--- Test - Attempt 75 ---
+Best order(number of nodes): 37
+Regular order(number of nodes): 52
+--- Test - Attempt 76 ---
+Best order(number of nodes): 2
+Regular order(number of nodes): 2
+--- Test - Attempt 77 ---
+Best order(number of nodes): 2
+Regular order(number of nodes): 2
+--- Test - Attempt 78 ---
+Best order(number of nodes): 137
+Regular order(number of nodes): 191
+--- Test - Attempt 79 ---
+Best order(number of nodes): 25
+Regular order(number of nodes): 32
+--- Test - Attempt 80 ---
+Best order(number of nodes): 92
+Regular order(number of nodes): 93
+--- Test - Attempt 81 ---
+Best order(number of nodes): 49
+Regular order(number of nodes): 64
+--- Test - Attempt 82 ---
+Best order(number of nodes): 57
+Regular order(number of nodes): 99
+--- Test - Attempt 83 ---
+Best order(number of nodes): 9
+Regular order(number of nodes): 12
+--- Test - Attempt 84 ---
+Best order(number of nodes): 33
+Regular order(number of nodes): 50
+--- Test - Attempt 85 ---
+Best order(number of nodes): 92
+Regular order(number of nodes): 161
+--- Test - Attempt 86 ---
+Best order(number of nodes): 77
+Regular order(number of nodes): 113
+--- Test - Attempt 87 ---
+Best order(number of nodes): 71
+Regular order(number of nodes): 108
+--- Test - Attempt 88 ---
+Best order(number of nodes): 137
+Regular order(number of nodes): 250
+--- Test - Attempt 89 ---
+Best order(number of nodes): 52
+Regular order(number of nodes): 54
+--- Test - Attempt 90 ---
+Best order(number of nodes): 116
+Regular order(number of nodes): 155
+--- Test - Attempt 91 ---
+Best order(number of nodes): 40
+Regular order(number of nodes): 54
+--- Test - Attempt 92 ---
+Best order(number of nodes): 2
+Regular order(number of nodes): 2
+--- Test - Attempt 93 ---
+Best order(number of nodes): 79
+Regular order(number of nodes): 101
+--- Test - Attempt 94 ---
+Best order(number of nodes): 115
+Regular order(number of nodes): 165
+--- Test - Attempt 95 ---
+Best order(number of nodes): 88
+Regular order(number of nodes): 129
+--- Test - Attempt 96 ---
+Best order(number of nodes): 81
+Regular order(number of nodes): 145
+--- Test - Attempt 97 ---
+Best order(number of nodes): 73
+Regular order(number of nodes): 85
+--- Test - Attempt 98 ---
+Best order(number of nodes): 31
+Regular order(number of nodes): 37
+--- Test - Attempt 99 ---
+Best order(number of nodes): 2
+Regular order(number of nodes): 2
+--- Test - Attempt 100 ---
+Best order(number of nodes): 66
+Regular order(number of nodes): 79
+----------------------------------
+Number of tests passed: 100
+Number of tests failed: 0
+----------------------------------
